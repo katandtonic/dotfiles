@@ -1,0 +1,9 @@
+[user]
+	name = Kat Huang
+	email = kkathuang@gmail.com
+
+[commit]
+	gpgsign = false
+
+[gpg]
+	program = gpg2
